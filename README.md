@@ -12,7 +12,7 @@ NeoMiriX is an advanced miRNA cancer analysis application that provides:
 
 ## Installation
 ### From Executable
-1. Download the OncoX executable
+1. Download the NeoMiriX executable
 2. Double-click to run (no installation required)
 
 
