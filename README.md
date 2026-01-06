@@ -1,6 +1,6 @@
 # bishoy-cancer-predictor
 Created by Bishoy. First open-source miRNA + DNA cancer development prediction app. January 6th, 2026
-# NeoMiriX - miRNA Cancer Analysis Tool
+# NeoMiriX - miRNA Cancer Predictor App
 
 ## Overview
 NeoMiriX is an advanced miRNA cancer analysis application that provides:
