@@ -31,4 +31,4 @@ NeoMiriX is an advanced miRNA cancer analysis application that provides:
 - 500MB free disk space
 
 ## Support
-For issues and questions, please check the documentation or contact support.
+For issues and questions, please contact bishoytadros2004@gmail.com .
